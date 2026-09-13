@@ -10,6 +10,19 @@
 그래서 실제 환경을 만들어놓고 하나씩 재봤다. 일곱 영역을 잡았고 여섯 개까지 랩으로 돌렸다. 글로 쓴 건 그중 아홉 편이다.
 
 ---
+## 블로그
+- [인덱스가 있으면 무조건 빠를까?](https://www.dev-chan.site/post/6a9a43f74c42c4f649c47126)
+- [락을 고르러 갔다가 커넥션 풀을 재고 왔다](https://www.dev-chan.site/post/6a9ece7239b6fe962c75abaf)
+- [비동기로 바꾸니 응답은 78배 빨라지고 처리량은 20배 나빠졌다](https://www.dev-chan.site/post/6a9ff0c7f555a957e5eefc15)
+- [가상 스레드는 기다림이 있어야 빨라진다](https://www.dev-chan.site/post/6aa008adbd2850d00732c793)
+- [카프카도 결국 정확히 한 번은 없었다](https://www.dev-chan.site/post/6aa1918a54c353ddfab7796f)
+- [컨슈머를 3배 늘렸는데 1명만 일했다](https://www.dev-chan.site/post/6aa2245978b5c2c112157be4)
+- [캐시를 넣었는데 더 느려졌다](https://www.dev-chan.site/post/6aa599d7dd573ec3f204df6d)
+- [응답 8ms에 에러 0%인 서버가 죽었다](https://www.dev-chan.site/post/6aa62fa77095ef6dd3563534)
+- [로드밸런서 뒤의 서버는 어떻게 죽어야 하는가](https://www.dev-chan.site/post/6aa6419cfc50d6059cd0b179)
+
+
+---
 
 ## 재본 것들
 
